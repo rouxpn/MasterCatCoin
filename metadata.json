@@ -1,0 +1,9 @@
+{
+  "name": "MasterCatCoin",
+  "symbol": "MCC",
+  "description": "Master Cat Coin — a coin for legendary cats",
+  "image": "https://raw.githubusercontent.com/rouxpn/MasterCatCoin/main/logo.png",
+  "attributes": [
+    { "trait_type": "Type", "value": "Legendary Cat Coin" }
+  ]
+}
